@@ -1,0 +1,28 @@
+nav{
+  font-weight: bold;
+}
+
+#body{
+  font-family: inherit;
+  border-bottom: 1px solid red;
+  margin: 10%;
+  margin-top: 2%;
+
+  height: 2000px;
+  background-color: #f2f2f2;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+
+.content{
+  width: 76%;
+  height: auto;
+  margin-left: 22%;
+}
+
+.dropdown{
+  margin-bottom: 5%;
+}

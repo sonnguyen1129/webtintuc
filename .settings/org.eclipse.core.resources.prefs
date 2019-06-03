@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/views/home.jsp=UTF-8
+encoding//WebContent/views/signup.jsp=UTF-8
+encoding//src/com/controller/CheckUsername.java=UTF-8
+encoding//src/com/controller/SignupController.java=UTF-8
+encoding//src/com/controller/UpPostController.java=UTF-8
